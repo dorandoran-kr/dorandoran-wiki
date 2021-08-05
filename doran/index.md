@@ -4,11 +4,12 @@
 
 ### Commit Message
 
-![예시](https://user-images.githubusercontent.com/45455072/128326228-97ac8d03-968f-4742-be31-a80597b611a9.png)
+![Commit 예시](https://user-images.githubusercontent.com/45455072/128326228-97ac8d03-968f-4742-be31-a80597b611a9.png)
 
+
+Commit Message 구조
 ```
 [type]: 수정 된 내용
-[docs]: 로고 이미지 추가
 ```
 
 **Type**
