@@ -4,7 +4,7 @@
 
 ### Branch 소개
 
-도란도란 서비스는 Git-flow로 브랜치를 관리하고 있습니다. ([우아한 형제들](https://techblog.woowahan.com/2553/)) ([강남언니](https://blog.gangnamunni.com/post/understanding_git_flow/))
+도란도란 서비스는 Git-flow로 브랜치를 관리하고 있습니다. ([우아한 형제들](https://techblog.woowahan.com/2553/)), ([강남언니](https://blog.gangnamunni.com/post/understanding_git_flow/))
 
 본 프로젝트의 브랜치 구성은 아래와 같습니다.
 - master: 실제 배포되는 버전으로 해당 브랜치에 push 시 자동으로 CI/CD 과정을 거쳐 배포가 진행됩니다.
