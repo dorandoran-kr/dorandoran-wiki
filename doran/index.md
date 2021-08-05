@@ -13,13 +13,13 @@
 
 ### Commit Message
 
-![Commit 예시](https://user-images.githubusercontent.com/45455072/128326228-97ac8d03-968f-4742-be31-a80597b611a9.png)
-
-
 Commit Message 구조
 ```
 [type]: 수정 된 내용
 ```
+
+![git-flow 및 Commit Message 예시](https://user-images.githubusercontent.com/45455072/128326228-97ac8d03-968f-4742-be31-a80597b611a9.png)
+
 
 **Type**
 
