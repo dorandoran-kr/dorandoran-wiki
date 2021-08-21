@@ -10,21 +10,24 @@
 1인 미디어 시장에서 노령층 어르신들께서 소비자의 역할만 하실 수 있었던 것은 구조적인 문제입니다.  
 **고령층를 위한 UI와 녹음 방식**을 활용하여 세대간의 소통의 장을 열어보고자 합니다.  
 
+[도란도란 서비스](doran/architecture/index.md)
 
-### TODO
-TODO #1(지승): 서비스 이미지
-
-TODO #2(혜진): 서비스 소개
 
 [도란도란 공식 WIKI](https://sk-and-mc.gitbook.io/dorandoran/)
 
-[도란도란 서비스]()
+
 
 [개발 중인 기능들](https://github.com/dorandoran-kr/dorandoran-wiki/projects)
 
 [개발 요청](https://github.com/dorandoran-kr/dorandoran-wiki/issues)
 
+
 ## Contributors 
 - [TheStar](https://github.com/TheStarkor)
 - [micko6420](https://github.com/micko6420)
 - [hyejini412](https://github.com/hyejini412)
+
+### TODO
+TODO #1(지승): 서비스 이미지
+
+TODO #2(혜진): 서비스 소개
