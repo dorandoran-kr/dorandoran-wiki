@@ -12,10 +12,15 @@
 
 [도란도란 서비스](doran/architecture/index.md)
 
+### 도란도란 기대 효과
+
+1. 지혜를 나눔으로써 *세대간의 공감*을 이끌어 낼 수 있습니다.
+2. 고령층 *디지털 리터러시 교육*에 활용될 수 있습니다. 
+3. 오프라인 협업 등 고령인구의 *가치 창출 가능성*이 증가합니다. 
+4. 추가적으로 비지니스화 시 *부수입*을 기대할 수 있습니다. 
+
 
 [도란도란 공식 WIKI](https://sk-and-mc.gitbook.io/dorandoran/)
-
-
 
 [개발 중인 기능들](https://github.com/dorandoran-kr/dorandoran-wiki/projects)
 
