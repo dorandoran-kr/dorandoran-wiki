@@ -20,7 +20,7 @@
 4. 추가적으로 비지니스화 시 *부수입*을 기대할 수 있습니다. 
 
 
-[도란도란의 장점]()
+[도란도란의 장점](doran/service/research.md)
 
 [도란도란 공식 WIKI](https://sk-and-mc.gitbook.io/dorandoran/)
 
