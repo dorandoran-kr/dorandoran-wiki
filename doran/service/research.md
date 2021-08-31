@@ -4,7 +4,7 @@
 
 ## 적절한 가이드라인 
 
-![녹음단계 기획](https://www.figma.com/file/mYiKSf9sgbFEOBPIVYkgFF/record-%ED%99%98%EA%B2%BD?node-id=288%3A125)
+![녹음단계 기획](https://user-images.githubusercontent.com/88493894/131529440-2fe442f4-c35c-4b5f-bcb7-20b9c27545bc.png)
 
 휴대전화에 자신의 이야기를 녹음하는 것이 익숙하지 않은 시니어 세대도 튜토리얼 없이 이해할 수 있는 UI를 구현하기 위해서는 
 
